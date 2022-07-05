@@ -1,0 +1,4 @@
+If the first file is 'TestFile1.txt' with text as:
+Jack said, "Hello Pune".
+The output of the file 'TestFile2.txt' should be:
+Jack said,\"Hello Pune\".

@@ -1,0 +1,7 @@
+f = open('f1.txt', 'r')
+d = f.read()
+f2 = open('f2.txt', 'w')
+f2.write(d.replace(' " ', ' \\" '))
+f2.close()
+f2 = open('f2.txt', 'r')
+print(d)
