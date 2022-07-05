@@ -1,0 +1,7 @@
+TV 45 78 89 90
+mobile 123 678 781 772
+camera 40 50 60 70
+processor 30 35 12 100
+RAM 45 40 16 90
+earphones 150 120 500 180
+headphones 600 123 456 45

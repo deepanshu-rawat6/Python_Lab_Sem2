@@ -1,0 +1,10 @@
+a = "If the first file is 'TestFile1.txt' with text as: Jack said,'Hello Pune'"
+f = open("apple1.txt", "w+")
+f.write(a)
+print(f.read())
+f.close()
+a = a.replace("'", "\'")
+f = open("apple2.txt", "w+")
+f.write(a)
+print(f.read())
+f.close()
